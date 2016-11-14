@@ -40,9 +40,9 @@ public class Tresnumeros {
                 }
                 
                 else{
-                    if () {
+                    //if () {
                         
-                    }
+                    //}
                 }
             }
         }
